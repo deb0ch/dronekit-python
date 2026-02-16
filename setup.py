@@ -13,7 +13,7 @@ setup(name='dronekit',
       install_requires=[
           'pymavlink>=2.2.3',
           'monotonic==1.2',
-          'future==0.15.2'
+          'future==1.0.0'
       ],
       author_email='tim@3drobotics.com, kevinh@geeksville.com',
       classifiers=[
